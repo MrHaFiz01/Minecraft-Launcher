@@ -1,0 +1,10 @@
+name: ZalithHello
+main: net.zalith.plugin.HelloPlugin
+version: 0.1.0
+api-version: '1.20'
+authors:
+  - Zalith
+commands:
+  hello:
+    description: Says hello
+    usage: /hello
